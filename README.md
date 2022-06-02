@@ -1,2 +1,2 @@
 # TQI FullStack Developer
-Bootcamp do Carrefour na Digital Innovation
+Bootcamp da TQI na Digital Innovation
